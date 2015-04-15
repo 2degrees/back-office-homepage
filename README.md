@@ -1,3 +1,3 @@
-# back-office-homepage
+# Back-office Homepage
 
-Files to power http://dev.2degrees.org/back-office-homepage
+http://dev.2degreesnetwork.com/back-office-homepage
